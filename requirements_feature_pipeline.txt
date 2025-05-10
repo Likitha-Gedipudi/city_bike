@@ -1,0 +1,7 @@
+confluent-kafka
+hopsworks
+packaging
+pandas
+pyarrow
+python-dotenv
+requests
